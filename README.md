@@ -17,6 +17,6 @@ Mealify is a beautifully designed, fully responsive website built using HTML and
 
 ## Live Demo
 
-Check out the live demo of Mealify [here]().
+Check out the live demo of Mealify [here](https://ebtehal18.github.io/mealify/).
 
 
